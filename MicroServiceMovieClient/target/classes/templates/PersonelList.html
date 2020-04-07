@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+
+<body>
+
+<b>
+<h2>Personel Lists</h2>
+-------------------------------------
+<div th:each="movie : ${result}">
+    <p th:text="${movie.id}" />
+    <p th:text="${movie.name}" />
+    <p th:text="${movie.surname}" />
+    -------------------------------------
+</div>
+</b>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: movie_server
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: guray
+Implementation-Vendor-Id: com.metin.microservice.example
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/movie_server
+Created-By: Maven Integration for Eclipse
+
